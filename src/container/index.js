@@ -1,0 +1,7 @@
+export { default as Navbar } from "./navbar/Navbar.jsx";
+export { default as Blog } from "./blog/Blog.jsx";
+export { default as WhatGPt3 } from "./whatGpt3/WhatGpt3.jsx";
+export { default as Possibility } from "./possibility/Possibility.jsx";
+export { default as Header } from "./header/Header.jsx";
+export { default as Features } from "./features/Features.jsx";
+export { default as Footer } from "./footer/Footer.jsx";
